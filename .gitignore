@@ -1,0 +1,8 @@
+build/
+.ninja_log
+build.ninja
+dadosod.exe
+main.dol
+tools/mwcc_compiler
+tools/elf2dol
+tools/elf2rel
