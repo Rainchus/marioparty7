@@ -26,7 +26,7 @@ path/to/file.cpp: [file attributes]
 
 ### File attributes
 
-- `comment:` Overrides the `mw_comment_version` setting in [`config.yml`](/config/GAMEID/config.example.yml) for this file. See [Comment section](comment_section.md).  
+- `comment:` Overrides the `mw_comment_version` setting in [`config.yml`](/config/GP7E01/config.example.yml) for this file. See [Comment section](comment_section.md).  
 
 `comment:0` is used to disable `.comment` section generation for a file that wasn't compiled with `mwcc`.  
 Example: `TRK_MINNOW_DOLPHIN/ppc/Export/targsupp.s: comment:0`  
