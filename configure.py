@@ -134,7 +134,7 @@ if args.no_asm:
 # Tool versions
 config.binutils_tag = "2.42-1"
 config.compilers_tag = "20231018"
-config.dtk_tag = "v0.7.5"
+config.dtk_tag = "v0.9.1"
 config.sjiswrap_tag = "v1.1.1"
 config.wibo_tag = "0.6.11"
 
@@ -204,7 +204,7 @@ cflags_rel = [
     "-sdata2 0",
 ]
 
-config.linker_version = "GC/1.3.2"
+config.linker_version = "GC/2.6"
 
 
 # Helper function for Dolphin libraries
