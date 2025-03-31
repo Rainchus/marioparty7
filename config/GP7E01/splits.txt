@@ -13,5 +13,13 @@ Sections:
 	.sdata2     type:rodata align:16
 	.sbss2      type:bss align:32
 
+board/mgcall.c:
+	.data       start:0x80276E50 end:0x80277208
+
+game/frand.c:
+	.text       start:0x80041BD8 end:0x80041E80
+	.sbss       start:0x802F2F80 end:0x802F2F88
+	.sdata2     start:0x802F42B8 end:0x802F42C8
+
 game/kerent.c:
 	.text       start:0x8023CF6C end:0x8023F9A0

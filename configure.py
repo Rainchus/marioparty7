@@ -300,6 +300,7 @@ config.libs = [
         "cflags": cflags_game,
         "host": False,
         "objects": [
+            Object(Matching, "game/frand.c"),
             Object(NonMatching, "game/kerent.c"),
         ],
     },
