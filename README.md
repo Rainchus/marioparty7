@@ -1,6 +1,6 @@
 # Mario Party 7  
 <!-- [![Build Status]][actions] ![Progress] ![DOL Progress] ![RELs Progress] [![Discord Badge]][discord] -->
-=============
+<!-- ============= -->
 
 <!--
 Replace with your repository's URL.
